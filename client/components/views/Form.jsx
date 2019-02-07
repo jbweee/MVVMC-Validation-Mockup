@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { FormErrors } from './FormErrors.jsx';
 import '../styles/Form.css';
-Error
 var viewModel = require('../../viewModel/validation.js');
 
 class Form extends Component {
